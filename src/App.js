@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import store from './store';
 import ComA from './pages/ComA';
 import ComB from './pages/ComB';
 
